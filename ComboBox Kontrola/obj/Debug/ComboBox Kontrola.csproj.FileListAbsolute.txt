@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Documents\GabrielCondric\ComboBox Kontrola\bin\Debug\ComboBox Kontrola.exe.config
+C:\Users\Ucenik\Documents\GabrielCondric\ComboBox Kontrola\bin\Debug\ComboBox Kontrola.exe
+C:\Users\Ucenik\Documents\GabrielCondric\ComboBox Kontrola\bin\Debug\ComboBox Kontrola.pdb
+C:\Users\Ucenik\Documents\GabrielCondric\ComboBox Kontrola\obj\Debug\ComboBox Kontrola.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\GabrielCondric\ComboBox Kontrola\obj\Debug\ComboBox Kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\GabrielCondric\ComboBox Kontrola\obj\Debug\ComboBox_Kontrola.Form1.resources
+C:\Users\Ucenik\Documents\GabrielCondric\ComboBox Kontrola\obj\Debug\ComboBox_Kontrola.Properties.Resources.resources
+C:\Users\Ucenik\Documents\GabrielCondric\ComboBox Kontrola\obj\Debug\ComboBox Kontrola.csproj.GenerateResource.cache
+C:\Users\Ucenik\Documents\GabrielCondric\ComboBox Kontrola\obj\Debug\ComboBox Kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\GabrielCondric\ComboBox Kontrola\obj\Debug\ComboBox Kontrola.exe
+C:\Users\Ucenik\Documents\GabrielCondric\ComboBox Kontrola\obj\Debug\ComboBox Kontrola.pdb
